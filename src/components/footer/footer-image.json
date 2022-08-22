@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_footer_footer_images",
+  "info": {
+    "displayName": "Footer image"
+  },
+  "options": {},
+  "attributes": {
+    "alt": {
+      "type": "string"
+    },
+    "src": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
