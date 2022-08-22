@@ -1,0 +1,39 @@
+{
+  "kind": "singleType",
+  "collectionName": "homepages",
+  "info": {
+    "singularName": "homepage",
+    "pluralName": "homepages",
+    "displayName": "homepage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "text"
+    },
+    "searchlink": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.search-links"
+    },
+    "dataset": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.datasets"
+    },
+    "carousel": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.carousel"
+    },
+    "datastory": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.datastory"
+    }
+  }
+}

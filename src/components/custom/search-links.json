@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_custom_search_links",
+  "info": {
+    "displayName": "Search Links"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}

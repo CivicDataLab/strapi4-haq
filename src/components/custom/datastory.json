@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_custom_datastories",
+  "info": {
+    "displayName": "Data Story",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "tag": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "author": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    }
+  }
+}
