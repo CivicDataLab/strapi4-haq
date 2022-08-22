@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "teampages",
+  "info": {
+    "singularName": "teampage",
+    "pluralName": "teampages",
+    "displayName": "Teampage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "text"
+    },
+    "partner": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.partner"
+    },
+    "team": {
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.team"
+    }
+  }
+}
