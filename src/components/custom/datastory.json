@@ -9,9 +9,6 @@
     "title": {
       "type": "string"
     },
-    "tag": {
-      "type": "string"
-    },
     "content": {
       "type": "text"
     },
@@ -20,6 +17,15 @@
     },
     "date": {
       "type": "date"
+    },
+    "taglist": {
+      "displayName": "Tag",
+      "type": "component",
+      "repeatable": true,
+      "component": "custom.tag"
+    },
+    "link": {
+      "type": "string"
     }
   }
 }
