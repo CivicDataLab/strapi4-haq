@@ -1,8 +1,7 @@
 {
-  "collectionName": "components_custom_datasets",
+  "collectionName": "components_dataset_headers",
   "info": {
-    "displayName": "Datasets",
-    "description": ""
+    "displayName": "Header"
   },
   "options": {},
   "attributes": {
@@ -12,19 +11,15 @@
     "content": {
       "type": "text"
     },
-    "src": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
+    "logo": {
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ]
-    },
-    "link": {
-      "type": "string"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "datasets",
+  "info": {
+    "singularName": "dataset",
+    "pluralName": "datasets",
+    "displayName": "Dataset",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "dataset": {
+      "type": "component",
+      "repeatable": true,
+      "component": "dataset.header"
+    }
+  }
+}
