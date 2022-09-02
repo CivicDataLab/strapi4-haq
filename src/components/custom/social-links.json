@@ -1,7 +1,8 @@
 {
   "collectionName": "components_custom_social_links",
   "info": {
-    "displayName": "Social Links"
+    "displayName": "Team Social Links",
+    "description": ""
   },
   "options": {},
   "attributes": {

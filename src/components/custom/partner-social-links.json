@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_custom_partner_social_links",
+  "info": {
+    "displayName": "Partner Social Links"
+  },
+  "options": {},
+  "attributes": {
+    "website": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "twitter": {
+      "type": "string"
+    },
+    "github": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    },
+    "facebook": {
+      "type": "string"
+    }
+  }
+}

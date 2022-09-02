@@ -29,7 +29,7 @@
     "link": {
       "type": "component",
       "repeatable": false,
-      "component": "custom.social-links"
+      "component": "custom.partner-social-links"
     }
   }
 }
