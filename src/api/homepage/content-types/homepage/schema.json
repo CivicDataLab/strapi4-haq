@@ -12,8 +12,8 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "heading": {
-      "type": "text"
+    "hero_section_heading": {
+      "type": "string"
     },
     "searchlink": {
       "type": "component",
@@ -34,6 +34,9 @@
       "type": "component",
       "repeatable": true,
       "component": "custom.datastory"
+    },
+    "hero_section_subheading": {
+      "type": "text"
     }
   }
 }
